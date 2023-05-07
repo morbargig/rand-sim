@@ -7,7 +7,7 @@
     "babel-cli": "^6.26.0",
     "babel-node": "0.0.1-security",
     "babel-preset-env": "^1.7.0",
-    "mongoose": "^5.7.9",
+    "mongoose": "^5.13.15",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-masonry-component": "^6.2.1",
